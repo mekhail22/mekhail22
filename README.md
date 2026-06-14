@@ -14,11 +14,10 @@ Freelance Python Developer | Streamlit Specialist | Full-Stack Web Developer
 🔨 15+ Projects  ⏱️ 2500+ Hours  🎓 CS50  🔐 Cybersecurity
 
 🌟 Featured Projects
-(جدول بكل المشاريع)
+
 
 🌐 Portfolio: portfolio-mekhail.streamlit.app
 
 📫 LinkedIn
 
 📈 GitHub Stats
-(إحصائيات وجرافات)
