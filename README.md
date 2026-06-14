@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Mekhail Saber
+Freelance Python Developer | Streamlit Specialist | Full-Stack Web Developer
 
-<!--
-**mekhail22/mekhail22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+💻 Full-Stack Developer with 3+ years
+🎯 Python, Streamlit, modern web
+🎓 CS50 Harvard Certified
+🌍 Egypt | Open to remote freelance
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+[Python] [Streamlit] [HTML] [CSS] [JS] [SQLite] [Git] [Docker]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Quick Facts
+🔨 15+ Projects  ⏱️ 2500+ Hours  🎓 CS50  🔐 Cybersecurity
+
+🌟 Featured Projects
+(جدول بكل المشاريع)
+
+🌐 Portfolio: portfolio-mekhail.streamlit.app
+
+📫 LinkedIn
+
+📈 GitHub Stats
+(إحصائيات وجرافات)
