@@ -16,8 +16,10 @@ Freelance Python Developer | Streamlit Specialist | Full-Stack Web Developer
 🌟 Featured Projects
 
 
-🌐 Portfolio: portfolio-mekhail.streamlit.app
+🌐 Portfolio:
+portfolio-mekhail.streamlit.app
 
-📫 LinkedIn
+📫 LinkedIn:
+https://www.linkedin.com/in/mekhail-saber-445558411/
 
 📈 GitHub Stats
